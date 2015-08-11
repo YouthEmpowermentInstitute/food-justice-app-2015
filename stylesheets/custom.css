@@ -2,6 +2,10 @@
 	text-align:center;
 }
 
+.center-img img {
+	width:80%;
+}
+
 .noelipsis {
     text-overflow: initial !important;
     overflow: visible !important;
