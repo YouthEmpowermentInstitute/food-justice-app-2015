@@ -6,6 +6,11 @@
 	width:80%;
 }
 
+h3.fp-block-text {
+	text-align:center;
+	font-size: 0.85em;
+}
+
 .noelipsis {
     text-overflow: initial !important;
     overflow: visible !important;
